@@ -89,13 +89,13 @@ O **PyGame** é uma biblioteca composta por diversos módulos em Python, desenvo
 ### Fundamentos básicos
 
 - **Game Loop**  
-  O jogo calcula mudanças de estado, como movimentação do personagem e detecção de colisões.
+  O jogo calcula mudanças de estado, como movimentação do personagem que está sendo controlado e detecção de colisões.
 - **Gráficos**  
   O PyGame permite desenhar superfícies usando funções.
 - **Input**  
   Usa um sistema de eventos para capturar ações do jogador.
 - **Controle de tempo (FPS)**  
-  Usa o objeto `Clock` para garantir que o jogo não ultrapasse uma certa taxa de quadros.
+  Usa o objeto `Clock` para garantir que o jogo não ultrapasse uma certa taxa de quadros, evitando travamentos durante a performance.
 - **Colisões e física**  
   Detecta colisões com `rect.collide`.
 

@@ -166,7 +166,11 @@ Facilita muito a vida de quem manipula dados, tornando o processo de análise e 
 O **MatPlotLib** oferece maior controle sobre os dados, é uma biblioteca python para visualização de dados por meio de gráficos. Geralmente usada com outras bibliotecas, fornece a base gráfica enquanto as demais oferecem funcionalidades adicionais.
 O **Seaborn** é mais fácil de usar. é uma Biblioteca integrada ao Matplotlib que simplifica e torna mais elegante a criação de gráficos, oferecendo estilos prontos e maior facilidade de uso.
 
-- Se você busca controle total e personalização, use MatPlotLib.  
+O **Seaborn** é mais simples de usar, porém, o **MatPlotLib** oeferece mais opções de personalização. O **Seaborn** possui uma visualização estatística de dados aprimoradas, permitindo visualizações de dados mais complexos, além de ser mais prático que o **Matplotlib** em relação a estética, com seus temas de cor integrados. O **MatPlotLib** possui um maior controle sob os dados e é superior na administração de dados, desde a criação de gráficos simples até visualizações mais complexas.
+
+Essas duas bibliotecas são essenciais na linguagem Python quando se trata de compreender e interpretar informações complexas. 
+
+- Se você busca controle total e personalização, use **MatPlotLib**.  
 - Se busca praticidade e estética, use Seaborn.
 
 ### Curiosidades

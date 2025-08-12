@@ -6,6 +6,17 @@
 
 O **OpenCv** é uma biblioteca para visão computacional e processamento de imagens. Foi criado originalmente pela Intel e é utilizada em milhares de projetos no mundo todo.
 
+Ele possui uma licença Apache 2.0, que permite ao usuário
+utilizar, modificar e distribuir o software. Isto torna
+especialmente atraente para entidades comerciais
+utilizarem esta biblioteca em seus produtos.
+
+### Por quem foi criado?
+O OpenCV foi criado originalmente pela Intel, em 1999.
+O principal desenvolvedor e líder inicial do projeto foi
+Gary Bradski, um engenheiro da Intel e pesquisador na
+área de inteligência artificial e visão computacional.
+
 - **1999** - Primeiro projeto de uso interno  
 - **2006** - Versão 1.0 chega
 
@@ -150,7 +161,7 @@ Os *arrays* são armazenados em um único espaço contínuo na memória, diferen
 
 - ### O que é o Pandas?
   O pandas é uma biblioteca para trabalhar com ciência de dados, open source. O pandas pode ser usados para  limpeza e tratamento de dados, análise exploratória de dados, etc.
-  
+
 ### Vantagens Pandas
 
 - Sintaxe de fácil entendimento

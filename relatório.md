@@ -148,6 +148,9 @@ Os *arrays* são armazenados em um único espaço contínuo na memória, diferen
 - Capacidades limitadas de manipulação de strings
 - Curva de aprendizagem íngreme
 
+- ### O que é o Pandas?
+  O pandas é uma biblioteca para trabalhar com ciência de dados, open source. O pandas pode ser usados para  limpeza e tratamento de dados, análise exploratória de dados, etc.
+  
 ### Vantagens Pandas
 
 - Sintaxe de fácil entendimento

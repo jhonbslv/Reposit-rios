@@ -90,6 +90,11 @@ A biblioteca **Qt** é mais sofisticada e usa *layouts* automáticos para organi
 
 O **PyGame** é uma biblioteca composta por diversos módulos em Python, desenvolvida para facilitar a criação de jogos e aplicações multimídia. Criado em 2000, seu nome é a junção de *Python* + *Game*.
 
+- ### História
+  O Pygame foi criado em 2000 pelo desenvolvedor Pete Shinners, experiente em C que
+descobriu o Python e a biblioteca SDL (Simple DirectMedia Layer), usada em diversos
+jogos. Impressionado com a simplicidade de ambos, viu potencial em combiná-los.
+
 ### Fundamentos básicos
 
 - **Game Loop**  

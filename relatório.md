@@ -53,6 +53,10 @@ O **OpenCV** é uma biblioteca poderosa, acessível e de fácil integração com
 
 ## Tkinter & PyQt - Grupo 3
 
+O Tkinter foi criado por John Ousterhout, que criou a biblioteca gráfica Tk
+na década de 1980. O Tkinter é a interface Python para essa biblioteca
+Tk, que permite criar interfaces gráficas de forma simples.
+
 ### Pontos positivos
 
 - Comunidade grande e fóruns

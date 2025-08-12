@@ -56,12 +56,12 @@ O **OpenCV** é uma biblioteca poderosa, acessível e de fácil integração com
 ### Pontos positivos
 
 - Comunidade grande e fóruns
-- Muita compatibilidade
+- Muita compatibilidade com vários dispositivos
 
 ### Pontos negativos
 
 - Ferramentas limitadas
-- Organização sem liberdade
+- Organização sem liberdade, já que, como dito acima, as ferramentas são limitadas
 
 ### Funcionamento
 
@@ -74,7 +74,7 @@ O **Tkinter** cria uma janela principal, e dentro dela são colocados *widgets* 
 ### PyQt - Pontos negativos
 
 - Pode confundir iniciantes, já que possui muitos recursos
-- Embora seja muito utilizado, é recomendado que iniciantes utilizem outras bibliotecas
+- Embora seja muito utilizado, é recomendado que iniciantes utilizem outras bibliotecas, já que o Tkinter pode ser muito complexo.
 
 ### Funcionamento
 
@@ -173,7 +173,7 @@ O **Seaborn** é mais fácil de usar. é uma Biblioteca integrada ao Matplotlib 
 
 - Criado por um neurocientista
 - Usado para criar a primeira imagem de um buraco negro
-- O nome pode ter sido inspirado em um desenho
+- O nome pode ter sido inspirado em um desenho animado
 
 ### Conclusão
 
